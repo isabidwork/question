@@ -1,0 +1,55 @@
+*{
+    font-family: 'Poppins', sans-serif;
+  }
+  /*font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;*/
+  
+  /*Global styling*/
+  .pri-bg-btn{
+    background-color: #2487ce !important;
+    }
+  .pri-bg-col{
+  background-color: #F3F9FD !important;
+  }
+  .pri-text-col{
+    color: #124265 !important;
+  }
+  .pri-col{
+   border-color: #2487ce !important;
+  }
+  .sec-bg-col{
+    background-color: #124265 !important;
+  }
+  .sec-text-col{
+        color: #124265 !important;
+  }
+  .sec-col{
+       border-color: #124265 !important;
+  }/*
+  .card-zoom {
+    transition: all ease-in-out;
+  }
+  .card-zoom:hover {
+    transform: scale(1.09);
+  }
+  /*.card-zoom:hover h5{
+    color: #2487ce !important;
+    cursor: pointer;
+  }*/
+  .bg{
+    background: linear-gradient (to bottom,
+    rgba(255, 255, 255, 0.248),
+    rgba(255, 255, 255, 0.248),)
+     url('./img/bg-image.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  .z{
+    z-index: 100;
+  }
+  
+  
+  
